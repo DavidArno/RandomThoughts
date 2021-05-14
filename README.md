@@ -1,3 +1,6 @@
+I'm rebuilding my blog using github pages and the Reverie theme. Leaving the Reverie stuff here until I have things beter sorted:
+
+
 <div align="center">
   <br>
   <img src="/images/reverie-text.png" alt="Reverie" width="200"/>
