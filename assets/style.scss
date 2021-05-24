@@ -257,6 +257,15 @@ p > img {
 }
 
 /*********************/
+/* DA's ADDITIONS    */
+/*********************/
+.about-avatar {
+    border-radius: 50%;
+    float: right; 
+    margin: 0px 0px 15px 15px;
+}
+
+/*********************/
 /* LAYOUT / SECTIONS */
 /*********************/
 
@@ -330,7 +339,7 @@ p > img {
 }
 
 nav {
-  float: right;
+  float: left;
   margin-top: 23px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
   font-size: 18px;

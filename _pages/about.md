@@ -1,29 +1,19 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
+## Me as a developer
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
+<img src="/images/about-avatar.jpg" class="about-avatar">
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
+My name is David Arno. I am a Software Development Manager and occasional developer. I over 30 years' software development experience across a wide range of industries, technologies and programming languages languages:
 
-## Features
+*  I've developed software for aircraft simulators using Fortran, C and Ada.
+*  Created and maintained a college intranet and website back in the VBScript/classic ASP days 
+* Dabbled with AS2 and C++ for real-time, embedded, environmental monitoring and precision-manufacturing controllers.
+* Used Java with JBoss, Oracle, AS3 and Flex, then later C#, SQL_Server and ASP.NET MVC  to create data management tools capable of processing, indexing and archiving terabytes of data for the Oil and Gas industries.
+* C# (with some legacy VB!) apps used to manage many aspects of the business for a mid-sized insurance company
+* My latest adventure takes me to [Orbus Software](https://www.orbussoftware.com/), an independent software vendor and a globally recognized leading provider of software and services for Digital Transformation. Orbus's philosophy is very much "Microsoft First", building upon familiar tools in the Office 365 suite. This will allow me to build upon my existing knowledge of MS development tools and to take that knowledge to the next level.
 
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
-
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
+Special thanks goes to Amit Merchant, who created the [Reverie](https://github.com/amitmerchant1990/reverie) theme that my blog uses.
